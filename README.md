@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Kingsley Opoku! 👋
 
-<!--
-**a-xel1/a-xel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![proile_pircture](https://github.com/user-attachments/assets/40e10fca-cbd9-47d7-8c14-1534f6d909c5)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🚀
+
+I'm a student and aspring to be a backend developer. I love learning new skills and collaborating with teams to complete projects.
+
+- 🌱 Currently learning: Backend Web Development on ALX.
+- 🔭 Working on: I'm currently working with a team of 8 to build a course management app.
+- 🌍 Languages: I mainly work with python programming language, I speak English fluently and learning spanish as a hobby.
+- 📫 How to reach me: kingsleyopoku110@gmail.com
+- ⚡ Fun fact: I love reading self development books.
+
+
+## Projects 💻
+
+### [Project 1 Title](project_1_link)
+
+![Project 1 Screenshot](project_1_screenshot_url)
+
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+
+### [Project 2 Title](project_2_link)
+
+![Project 2 Screenshot](project_2_screenshot_url)
+
+**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(https://www.linkedin.com/in/kingsley-opoku-68578024a/)
+
+
+
