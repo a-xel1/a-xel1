@@ -16,11 +16,11 @@ I'm a student and aspring to be a backend developer. I love learning new skills 
 
 ## Projects 💻
 
-### [Project 1 Title](project_1_link)
+### LenHub
 
-![Project 1 Screenshot](project_1_screenshot_url)
+Screenshot
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**LenHub** is a **is a course management system** built with **React Native, Node.js, Typescript, Expo Dev and Cursor**. This project demonstrates my ability to **create, view, update and delete courses**. You can check out the repository **https://github.com/a-xel1/LenHub**
 
 ### [Project 2 Title](project_2_link)
 
